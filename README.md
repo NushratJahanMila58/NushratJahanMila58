@@ -1,6 +1,7 @@
 ### Hi there 👋, This is Nushrat Jahan Mila
 #### A professional Data Analyst
-![A professional Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQHitPkF99MEcA/profile-displaybackgroundimage-shrink_350_1400/B56ZV8Tpt4GUAY-/0/1741547282489?e=1747267200&v=beta&t=w24sHbGHkwLFcT--eJds9p1ocsN_YlDId5SX8Vy9MgA)
+![Cover photo (1)](https://github.com/user-attachments/assets/545108d9-8bfb-4363-96af-fa5dd694fac2)
+
 
 I am Mila, a dedicated Data Analyst with expertise in data science, machine learning, and artificial intelligence. My passion lies in leveraging data-driven insights to enhance decision-making and optimize complex systems. With a strong foundation in analytical methodologies and programming, I specialize in developing predictive models, extracting meaningful insights, and solving real-world problems using advanced computational techniques.
 
