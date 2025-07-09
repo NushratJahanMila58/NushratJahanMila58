@@ -1,9 +1,12 @@
-### Hi there 👋, This is Nushrat Jahan Mila
-#### A professional Data Analyst
-![Cover photo (1)](https://github.com/user-attachments/assets/545108d9-8bfb-4363-96af-fa5dd694fac2)
+# 👋 Hi there, I'm Nushrat Jahan Mila
 
+## 🎓 Data Analyst | AI & ML Enthusiast | Computer Vision Researcher
 
-I am Mila, a dedicated Data Analyst with expertise in data science, machine learning, and artificial intelligence. My passion lies in leveraging data-driven insights to enhance decision-making and optimize complex systems. With a strong foundation in analytical methodologies and programming, I specialize in developing predictive models, extracting meaningful insights, and solving real-world problems using advanced computational techniques.
+![Header](https://github.com/user-attachments/assets/545108d9-8bfb-4363-96af-fa5dd694fac2)
+
+I'm Mila, a passionate and detail-oriented **Data Analyst** with a strong foundation in **Machine Learning**, **Artificial Intelligence**, and **Computer Vision**. I specialize in uncovering insights from data and building intelligent systems to solve real-world challenges.
+
+---
 
 Core Competencies:
 Machine Learning & AI – Supervised and unsupervised learning, deep learning, and model optimization
